@@ -1,0 +1,28 @@
+h1{
+    color: aqua;
+}
+
+
+li{
+    color: purple;
+}
+
+#fruits-title{
+    color: blue;
+}
+
+.important-places{
+    color:blueviolet;
+}
+
+/* .yellow-bg{
+    background-color: yellowgreen !important;
+} */
+
+.text-center{
+    text-align: center;
+}
+
+.large-text{
+    font-size: 2em;
+}
